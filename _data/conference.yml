@@ -104,18 +104,18 @@ organizing_committees:
     org: MIT
     homepage: 
   - role:  
-    name: Francesco Calabrese
+    name: Francesco Pilla
     org: University College Dublin
     homepage: 
 steering_committees:
   - name: Alessandro Moschitti
     org: University of Trento
     homepage: 
-  - name: Alexei Pozdnoukhov
-    org: UC Berkeley
+  - name: Declan O'Sullivan
+    org: Trinity College Dublin
     homepage: 
   - name: Alberto Mozo
-    org: Universidad Polit ecnica de Madrid (UPM)
+    org: Universidad Politecnica de Madrid (UPM)
     homepage: 
   - name: Gavin Shorten
     org: IBM Ireland
