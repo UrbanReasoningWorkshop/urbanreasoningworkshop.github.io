@@ -1,0 +1,128 @@
+full_title: First International Workshop on Urban Reasoning from Complex Challenges in Cities
+short_title: UrbReas
+email: haythama@ie.ibm.com
+description: > # this means to ignore newlines until "baseurl:"
+  The theme of the workshop is Urban Reasoning from complex challenges in cities. 
+  Urban reasoning is a process that empowers and extends the urban computing’s
+  vision as well as its applications. Urban computing aims to help us understand the 
+  nature of urban phenomena and predict the future of cities. Urban reasoningaims in 
+  extending this vision with a main focus on providing insights about thereasons from 
+  the major challenges that our cities face (e.g., crowd congestions,increased network 
+  demand, air pollution, water floods). Urban reasoning relieson  a  multi-stage  
+  analytics  process  employing  advanced  machine  learning  anddata mining 
+  techniques to provide deeper insights and new type of applicationsto  consumers  
+  and  city  authorities  where  the  initial  data  analytics  stage(s)  isapplied 
+  on a city-wide scale for deriving context information while the followingstage(s)  
+  focuses  on  the  analytics  related  to  a  certain  domain  challenge.  The context  
+  information  derived  from  the  first  stage(s)  analytics  is  further  fusedinto  
+  the  following  stage(s)  with  the  aim  of  providing  insights  and  reasoning 
+  behind  certain  domain  challenges  that  cities  face.  Urban  reasoning  relies  on 
+  other traditional fields like environmental engineering, civil engineering, network engineering, 
+  transportation, and sociology in the context of urban spaces.
+location: Dublin, Ireland, 2018
+date: September 14, 2018
+logo_path: .
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/image0.jpg
+    description: 
+    photographer_name: 
+    photographer_link: 
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: 
+    photographer_name: 
+    photographer_link: 
+  - id: 2
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: 
+    photographer_name: 
+    photographer_link: 
+navbar:
+  - id: 0
+    label: Home
+    path: ./index.html
+    visible: True
+  - id: 1
+    label: Committees
+    path: ./committees.html
+    visible: True
+  - id: 2
+    label: Call for Papers
+    path: ./cfp.html
+    visible: True
+  - id: 3
+    label: Submission
+    path: ./submission.html
+    visible: True
+  - id: 4
+    label: Program
+    path: ./program.html
+    visible: True
+  - id: 5
+    label: Venue
+    path: ./venue.html
+    visible: True
+  - id: 6
+    label: Registration
+    path: ./registration.html
+    visible: True
+deadlines:
+  - date: 2018-07-02 23:59:59 AoE
+    timezone: AoE
+    text: Submission deadline
+    pass_due: False
+  - date: 2018-07-17 23:59:59 AoE
+    timezone: AoE
+    text: Notification of acceptance
+    pass_due: False
+news:
+  - date: 2018-05-22
+    text: UrbReas Website is online!
+sponsors:
+  - name: IBM
+    logo_path: ./assets/images/sponsors/ibm-logo.jpg
+social_media:
+  facebook_link: 
+  twitter_link:
+organizing_committees:
+  - role: 
+    name: Haytham Assem
+    org: IBM Ireland
+    homepage:
+  - role:  
+    name: Teodora Sandra Buda
+    org: IBM Ireland
+    homepage: 
+  - role:  
+    name: Bora Caglayan
+    org: IBM Ireland
+    homepage: 
+  - role:  
+    name: Carlo Ratti
+    org: MIT
+    homepage: 
+  - role:  
+    name: Francesco Calabrese
+    org: University College Dublin
+    homepage: 
+steering_committees:
+  - name: Alessandro Moschitti
+    org: University of Trento
+    homepage: 
+  - name: Alexei Pozdnoukhov
+    org: UC Berkeley
+    homepage: 
+  - name: Alberto Mozo
+    org: Universidad Polit ecnica de Madrid (UPM)
+    homepage: 
+  - name: Gavin Shorten
+    org: IBM Ireland
+    homepage: 
+technical_program_committees:
+  - name: TBA
+    org: TBA
+    homepage: TBA
+
+
