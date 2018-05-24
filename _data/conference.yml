@@ -1,25 +1,25 @@
-full_title: First International Workshop on Urban Reasoning from Complex Challenges in Cities
-short_title: UrbReas
+full_title: The First International Workshop on Urban Reasoning
+short_title: UrbReas 2018
 email: haythama@ie.ibm.com
 description: > # this means to ignore newlines until "baseurl:"
-  The theme of the workshop is Urban Reasoning from complex challenges in cities. 
+  The theme of the workshop is "Urban Reasoning" which focuses on reasoning from complex challenges in cities. 
   Urban reasoning is a process that empowers and extends the urban computing’s
   vision as well as its applications. Urban computing aims to help us understand the 
-  nature of urban phenomena and predict the future of cities. Urban reasoningaims in 
-  extending this vision with a main focus on providing insights about thereasons from 
+  nature of urban phenomena and predict the future of cities. Urban reasoning aims in 
+  extending this vision with a main focus on providing insights about the reasons of 
   the major challenges that our cities face (e.g., crowd congestions,increased network 
-  demand, air pollution, water floods). Urban reasoning relieson  a  multi-stage  
-  analytics  process  employing  advanced  machine  learning  anddata mining 
-  techniques to provide deeper insights and new type of applicationsto  consumers  
-  and  city  authorities  where  the  initial  data  analytics  stage(s)  isapplied 
-  on a city-wide scale for deriving context information while the followingstage(s)  
+  demand, air pollution, water floods, etc.). Urban reasoning relies on  a  multi-stage  
+  analytics  process  employing  advanced  machine  learning  and data mining 
+  techniques to provide deeper insights and new type of applications to  various stakeholders  
+  where  the  initial  data  analytics  stage(s)  is applied on a city-wide scale for deriving 
+  context information while the followingstage(s)  
   focuses  on  the  analytics  related  to  a  certain  domain  challenge.  The context  
   information  derived  from  the  first  stage(s)  analytics  is  further  fusedinto  
   the  following  stage(s)  with  the  aim  of  providing  insights  and  reasoning 
   behind  certain  domain  challenges  that  cities  face.  Urban  reasoning  relies  on 
   other traditional fields like environmental engineering, civil engineering, network engineering, 
   transportation, and sociology in the context of urban spaces.
-location: Dublin, Ireland, 2018
+location: Held in conjunction with the The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Dublin, Ireland
 date: September 14, 2018
 logo_path: .
 slideshow:
@@ -80,49 +80,89 @@ deadlines:
 news:
   - date: 2018-05-22
     text: UrbReas Website is online!
+  - date: 2018-05-24
+    text: UrbReas TPC is announced!
 sponsors:
   - name: IBM
     logo_path: ./assets/images/sponsors/ibm-logo.jpg
+  - name: UCD
+    logo_path: ./assets/images/sponsors/UCD-logo.png
+  - name: MIT
+    logo_path: ./assets/images/sponsors/MIT-logo.jpg
 social_media:
   facebook_link: 
   twitter_link:
 organizing_committees:
   - role: 
     name: Haytham Assem
-    org: IBM Ireland
+    org: IBM, Ireland
     homepage:
   - role:  
     name: Teodora Sandra Buda
-    org: IBM Ireland
+    org: IBM, Ireland
     homepage: 
   - role:  
     name: Bora Caglayan
-    org: IBM Ireland
-    homepage: 
-  - role:  
-    name: Carlo Ratti
-    org: MIT
+    org: IBM, Ireland
     homepage: 
   - role:  
     name: Francesco Pilla
-    org: University College Dublin
+    org: University College Dublin, Ireland
+    homepage: 
+  - role:  
+    name: Carlo Ratti
+    org: MIT, USA
     homepage: 
 steering_committees:
-  - name: Alessandro Moschitti
-    org: University of Trento
-    homepage: 
   - name: Declan O'Sullivan
-    org: Trinity College Dublin
+    org: Trinity College Dublin, Ireland
+    homepage: 
+  - name: Alessandro Moschitti
+    org: University of Trento, Italy
     homepage: 
   - name: Alberto Mozo
-    org: Universidad Politecnica de Madrid (UPM)
+    org: Universidad Politecnica de Madrid, Spain
     homepage: 
   - name: Gavin Shorten
-    org: IBM Ireland
+    org: IBM, Ireland
     homepage: 
 technical_program_committees:
-  - name: TBA
-    org: TBA
+  - name: Adam Douglas Henry
+    org: University of Arizona, USA
     homepage: TBA
-
-
+  - name: Alice Marascu
+    org: Nokia Bell Labs, Ireland
+    homepage: TBA
+  - name: Ayse Tosun
+    org: Istanbul Technical University, Turkey
+    homepage: TBA    
+  - name: Deepak Ajwani
+    org: Nokia Bell Labs, Ireland
+    homepage: TBA
+  - name: Ekrem Kocaguneli
+    org: PInterest, USA
+    homepage: TBA
+  - name: Gabriele Ranco
+    org: IBM, Ireland
+    homepage: TBA
+  - name: Imen Grida Ben Yahia
+    org: Orange Labs, France
+    homepage: TBA
+  - name: Jesus Omana Iglesias
+    org: Nokia Bell Labs, Ireland
+    homepage: TBA
+  - name: Kateryna Tymoshenko
+    org: University of Trento, Italy
+    homepage: TBA
+  - name: Marco Quartulli
+    org: Vicomtech, Spain
+    homepage: TBA
+  - name: Pawel Pralat
+    org: Ryerson University, Canada
+    homepage: TBA
+  - name: Rana Maher
+    org: Microsoft, Ireland
+    homepage: TBA
+  - name: Serkan Kirbas
+    org: Bloomberg, UK
+    homepage: TBA
