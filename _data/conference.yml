@@ -82,6 +82,8 @@ news:
     text: UrbReas Website is online!
   - date: 2018-05-24
     text: UrbReas TPC is announced!
+  - date: 2018-05-24
+    text: Submission site open!
 sponsors:
   - name: IBM
     logo_path: ./assets/images/sponsors/ibm-logo.jpg
