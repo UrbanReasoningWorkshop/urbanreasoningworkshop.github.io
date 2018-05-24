@@ -127,9 +127,6 @@ steering_committees:
     org: IBM, Ireland
     homepage: 
 technical_program_committees:
-  - name: Adam Douglas Henry
-    org: University of Arizona, USA
-    homepage: TBA
   - name: Alice Marascu
     org: Nokia Bell Labs, Ireland
     homepage: TBA
@@ -156,9 +153,6 @@ technical_program_committees:
     homepage: TBA
   - name: Marco Quartulli
     org: Vicomtech, Spain
-    homepage: TBA
-  - name: Pawel Pralat
-    org: Ryerson University, Canada
     homepage: TBA
   - name: Rana Maher
     org: Microsoft, Ireland
