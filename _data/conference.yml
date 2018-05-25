@@ -82,6 +82,8 @@ news:
     text: UrbReas Website is online!
   - date: 2018-05-24
     text: UrbReas TPC is announced!
+  - date: 2018-05-24
+    text: Submission site open!
 sponsors:
   - name: IBM
     logo_path: ./assets/images/sponsors/ibm-logo.jpg
@@ -127,9 +129,6 @@ steering_committees:
     org: IBM, Ireland
     homepage: 
 technical_program_committees:
-  - name: Adam Douglas Henry
-    org: University of Arizona, USA
-    homepage: TBA
   - name: Alice Marascu
     org: Nokia Bell Labs, Ireland
     homepage: TBA
@@ -156,9 +155,6 @@ technical_program_committees:
     homepage: TBA
   - name: Marco Quartulli
     org: Vicomtech, Spain
-    homepage: TBA
-  - name: Pawel Pralat
-    org: Ryerson University, Canada
     homepage: TBA
   - name: Rana Maher
     org: Microsoft, Ireland
