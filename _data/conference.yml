@@ -93,6 +93,10 @@ sponsors:
     logo_path: ./assets/images/sponsors/UCD-logo.png
   - name: MIT
     logo_path: ./assets/images/sponsors/MIT-logo.jpg
+  - name: TCD
+    logo_path: ./assets/images/sponsors/TCD-logo.jpg
+  - name: ADAPT    
+    logo_path: ./assets/images/sponsors/ADAPT-logo.png
 social_media:
   facebook_link: 
   twitter_link:
