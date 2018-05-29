@@ -125,14 +125,14 @@ steering_committees:
   - name: Declan O'Sullivan
     org: Trinity College Dublin, Ireland
     homepage: 
+  - name: Gavin Shorten
+    org: IBM, Ireland
+    homepage: 
   - name: Alessandro Moschitti
     org: University of Trento, Italy
     homepage: 
   - name: Alberto Mozo
     org: Universidad Politecnica de Madrid, Spain
-    homepage: 
-  - name: Gavin Shorten
-    org: IBM, Ireland
     homepage: 
 technical_program_committees:
   - name: Alice Marascu
