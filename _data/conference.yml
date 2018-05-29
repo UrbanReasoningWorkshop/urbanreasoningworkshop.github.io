@@ -89,6 +89,8 @@ news:
 sponsors:
   - name: IBM
     logo_path: ./assets/images/sponsors/ibm-logo.jpg
+  - name: IIX
+    logo_path: ./assets/images/sponsors/IIX-logo.png
   - name: UCD
     logo_path: ./assets/images/sponsors/UCD-logo.png
   - name: MIT
