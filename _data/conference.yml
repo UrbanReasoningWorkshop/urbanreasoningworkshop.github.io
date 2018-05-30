@@ -99,6 +99,8 @@ sponsors:
     logo_path: ./assets/images/sponsors/TCD-logo.jpg
   - name: ADAPT    
     logo_path: ./assets/images/sponsors/Adapt-logo.png
+  - name: Springer    
+    logo_path: ./assets/images/sponsors/Springer-logo.png
 social_media:
   facebook_link: 
   twitter_link:
