@@ -73,7 +73,7 @@ deadlines:
     timezone: AoE
     text: Submission deadline
     pass_due: False
-  - date: 2018-07-25 23:59:59 AoE
+  - date: 2018-07-30 23:59:59 AoE
     timezone: AoE
     text: Notification of acceptance
     pass_due: False
@@ -84,8 +84,6 @@ news:
     text: UrbReas TPC is announced!
   - date: 2018-05-24
     text: Submission site open!
-  - date: 2018-05-25
-    text: Industrial Panel as part of the program TBA soon!
   - date: 2018-07-09
     text: Paper deadline extension to July 15.
 sponsors:
@@ -96,7 +94,7 @@ sponsors:
   - name: UCD
     logo_path: ./assets/images/sponsors/UCD-logo.png
   - name: MIT
-    logo_path: ./assets/images/sponsors/MIT-logo.jpg
+    logo_path: ./assets/images/sponsors/MIT-logo.png
   - name: TCD
     logo_path: ./assets/images/sponsors/TCD-logo.jpg
   - name: ADAPT    
